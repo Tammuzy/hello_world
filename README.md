@@ -1,2 +1,4 @@
 # hello_world
-my first repository ever!!!
+this is my first repository ever!!!
+shabat shalom
+
